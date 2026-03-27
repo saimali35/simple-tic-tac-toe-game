@@ -3,8 +3,13 @@
 A fully responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project features interactive gameplay for two players, real-time winner detection, draw handling, and a clean user interface.
 
 ## 📸 Preview
+🟢 Game Start
+![Game Screenshot](game-start.png)
+🏆 Winner Screen
+![Game Screenshot](game-win.png)
+📱 Responsive View
+![Game Screenshot](game-responsive.png)
 
-![Game Screenshot](screenshot.png)
 
 ## 🚀 Features
 
