@@ -14,7 +14,7 @@ const winpatterns = [
     [0, 4, 8],
     [2, 4, 6]
 ];
-// anabling the box data
+// logic of changes in boxes
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
         if (box.innerHTML !== "") return;
