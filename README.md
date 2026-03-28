@@ -4,11 +4,11 @@ A fully responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. This 
 
 ## 📸 Preview
 🟢 Game Start
-![Game Screenshot](game-start.png)
+![Game Screenshot](Game-Start.png)
 🏆 Winner Screen
-![Game Screenshot](game-win.png)
+![Game Screenshot](Game-Win.png)
 📱 Responsive View
-![Game Screenshot](game-responsive.png)
+![Game Screenshot](Game-Responsive.png)
 
 
 ## 🚀 Features
